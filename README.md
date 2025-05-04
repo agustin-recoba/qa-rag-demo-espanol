@@ -2,7 +2,7 @@
 
 _Noviembre 2024_
 
-Sistema de Preguntas y Respuestas (RAG) sobre Historia y Cultura de Uruguay usando modelos de lenguaje y recuperación semántica.
+Sistema de Preguntas y Respuestas (QA) en español sobre Historia y Cultura de Uruguay usando modelos de lenguaje y recuperación semántica.
 
 Este proyecto implementa un sistema RAG (Retrieval-Augmented Generation) que responde preguntas sobre historia, cultura y demografía de Uruguay. Utiliza artículos de Wikipedia, técnicas de chunking y modelos de recuperación semántica (bi-encoder) junto a modelos de lenguaje (LLM) para generar respuestas fundamentadas en los textos recuperados.
 
