@@ -1,0 +1,11 @@
+accelerate
+bert_score
+bitsandbytes
+evaluate
+langchain-text-splitters
+scikit-learn
+sentence-transformers
+streamlit
+tqdm
+transformers
+wikipedia-api
